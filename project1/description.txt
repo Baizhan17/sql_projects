@@ -1,1 +1,2 @@
 
+This SQL project performs data cleaning, explores key metrics (sales, customers, categories), and answers business questions by analyzing transactions, customer behavior, sales trends, top customers, and order distribution across time-based shifts.
