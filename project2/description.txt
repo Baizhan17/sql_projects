@@ -1,1 +1,2 @@
 
+This project uses PostgreSQL to build and manage a library database, where I performed data operations and wrote SQL queries to analyze book usage, member activity, and rental trends.
